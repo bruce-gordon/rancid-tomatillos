@@ -34,6 +34,6 @@ In this parody of a familiar vegetable-themed movie rating site, Rancid Tomatill
 - Create a multipage UX using Router.
 - Successfully test components in React and asynchronous Javascript.
 
-## Contributors
-- [Bailey Dunning](https://github.com/baileydunning) 
+## Developers
 - [Bruce Gordon](https://github.com/bruce-gordon)
+- [Bailey Dunning](https://github.com/baileydunning) 
