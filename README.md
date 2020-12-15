@@ -3,7 +3,7 @@
 
 ## How To Access This Application
 
-### [Visit the Deployed Site](https://baileydunning.github.io/rancid-tomatillos/)
+### [Visit the Deployed Site](https://bruce-gordon.github.io/rancid-tomatillos/)
 
 *On your Terminal:*
 
