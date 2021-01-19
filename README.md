@@ -7,7 +7,7 @@
 
 *On your Terminal:*
 
-+ `git clone git@github.com:baileydunning/rancid-tomatillos.git`
++ `git clone git@github.com:bruce-gordon/rancid-tomatillos.git`
 + `cd rancid-tomatillos`
 + `npm install`
 + `npm start` (to start the server)
